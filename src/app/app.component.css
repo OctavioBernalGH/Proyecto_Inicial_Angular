@@ -1,0 +1,21 @@
+#banner{
+  height: 30vh;
+  background: linear-gradient(gray,white);
+  text-align: center;
+}
+
+.titulo{
+  margin-top: 100px;
+}
+
+span:hover{
+  font-size: 80px;
+  color: yellow;
+}
+
+#main{
+  width: 80%;
+  margin-top: 3em;
+  margin-left: 10%;
+  text-align: justify;
+}
