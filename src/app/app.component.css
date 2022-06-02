@@ -19,3 +19,16 @@ span:hover{
   margin-left: 10%;
   text-align: justify;
 }
+
+ul{
+  list-style: none;
+  display: flex;
+
+}
+
+#pie{
+  margin-top: 50px;
+  margin-left: 35%;
+  text-align: center;
+  width: 500px;
+}
